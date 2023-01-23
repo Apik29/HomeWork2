@@ -6,5 +6,4 @@ int number = Convert.ToInt32(Console.ReadLine());
         Console.Write(" Нет ");
     else
         Console.Write(" Да ");
-    return;
 }
